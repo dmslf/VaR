@@ -1,2 +1,3 @@
 # VaR
-Value at Risk 
+
+Just an exercise
