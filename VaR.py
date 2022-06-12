@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 12 09:39:09 2022
 
-@author: fusiek
+@author: dmslf
 """
 
 #Shows daily VaR in terms of % loss for a single security for pre-defined confidence level and period of time
