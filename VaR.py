@@ -6,6 +6,7 @@ Created on Sun Jun 12 09:39:09 2022
 """
 
 #Shows daily VaR in terms of % loss for a single security for pre-defined confidence level and period of time
+#Uses historical simulation method
 
 import pandas as pd
 
